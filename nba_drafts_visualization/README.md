@@ -8,7 +8,7 @@ The dataset for this project was collected using custom script `get_nba_data.ipy
 Clean dataset is also available (`nba_drafts_data.csv`) and can be accessed for further analysis.
 
 ## Questions
-Through this dataset, we explore various facets of the NBA draft and player progression, focusing on:
+Through this dataset, we explore various aspects of the NBA draft and players progression, focusing on:
 1. The number of NBA-drafted players who played vs. those who did not play in the NBA (drafts 1950-2006).
 2. Annual trends in the number of players drafted (1950-2006).
 3. Comparative analysis of players drafted vs. those who played in the NBA by year (1950-2006).
