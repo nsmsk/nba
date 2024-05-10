@@ -17,5 +17,12 @@ Through this dataset, we explore various facets of the NBA draft and player prog
 6. Distribution of players scoring over 10,000 points by draft pick.
 7. Universities with the most NBA-drafted players.
 8. NBA teams with the most top 3 draft picks.
+   
+## Interactive Visualizations
+Due to GitHub's limitations on viewing interactive graphs created with Plotly, I've included several PNG images of these graphs for quick reference. For a full interactive experience, you can run the code in `drafts_data_visualization.ipynb` on Google Colab, which will allow you to generate and interact with all the visualizations described in this project.
+
+![newplot (1)](https://github.com/nsmsk/nba/assets/85869776/547ae6a1-6ee9-49da-8a48-fb89ef842fcd)
+![newplot (2)](https://github.com/nsmsk/nba/assets/85869776/2aa30e38-a454-41db-8213-c10472a32d60)
+![newplot (3)](https://github.com/nsmsk/nba/assets/85869776/76ac92d7-852d-4e86-8a7f-8d1b762ebc6d)
 
 
