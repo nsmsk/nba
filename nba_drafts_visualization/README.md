@@ -21,7 +21,8 @@ Through this dataset, we explore various aspects of the NBA draft and players pr
 ## Interactive Visualizations
 Due to GitHub's limitations on viewing interactive graphs created with Plotly, I've included several PNG images of these graphs for quick reference. For a full interactive experience, you can run the code in `drafts_analysis.ipynb` on Google Colab, which will allow you to generate and interact with all the visualizations described in this project.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nsmsk/nba/nba_drafts_visualization/blob/main/drafts_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nsmsk/nba_drafts_visualization/blob/main/drafts_analysis.ipynb)
+
 
 
 ![newplot (1)](https://github.com/nsmsk/nba/assets/85869776/547ae6a1-6ee9-49da-8a48-fb89ef842fcd)
